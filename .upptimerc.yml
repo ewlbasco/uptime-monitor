@@ -1,7 +1,8 @@
 # Upptime Configuration
 # https://github.com/upptime/upptime
-# Fork https://github.com/upptime/upptime into your GitHub account,
-# then replace this file in your fork's root.
+
+owner: ewlbasco
+repo: uptime-monitor
 
 sites:
   - name: Vibe Coders Manual
